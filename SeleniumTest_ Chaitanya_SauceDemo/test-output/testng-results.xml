@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-11T15:15:16 EDT" name="Default suite" finished-at="2022-09-11T15:15:17 EDT" duration-ms="1500">
+    <groups>
+    </groups>
+    <test started-at="2022-09-11T15:15:16 EDT" name="Default test" finished-at="2022-09-11T15:15:17 EDT" duration-ms="1500">
+      <class name="Tests.SeleniumTest">
+        <test-method signature="successOrderTest()[pri:1, instance:Tests.SeleniumTest@2c6ee758]" started-at="2022-09-11T15:15:16 EDT" name="successOrderTest" finished-at="2022-09-11T15:15:17 EDT" duration-ms="1273" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- successOrderTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:Tests.SeleniumTest@2c6ee758]" started-at="2022-09-11T15:15:17 EDT" name="tearDown" finished-at="2022-09-11T15:15:17 EDT" duration-ms="184" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- Tests.SeleniumTest -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
